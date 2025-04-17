@@ -4,3 +4,5 @@ docker
 ansible 
 docker
 nexus
+Jenkins 
+maven
